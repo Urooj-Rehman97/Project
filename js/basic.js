@@ -1,0 +1,24 @@
+// document.write("Hello World <br>");
+// document.write("Hello World <br>");
+// document.write("Hello World <br>");
+// document.write("Hello World <br>");
+// document.write("Hello World <br>");
+// document.write("Hello World <br>");
+// document.write("Hello World <br>");
+// document.write("Hello World <br>");
+// document.write("Hello World <br>");
+//variables
+var a="Hello World";
+document.write(a);
+document.write("<br>");
+document.write(a);
+document.write("<br>");
+document.write(a);
+a="JavaScript";
+document.write("<br>");
+document.write(a);
+document.write("<br>");
+document.write(a);
+a="2307B3";
+document.write("<br>");
+document.write(a);
